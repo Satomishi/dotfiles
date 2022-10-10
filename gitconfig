@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = olivier.kermoal@gmail.com
+	name = Olivier Kermoal
